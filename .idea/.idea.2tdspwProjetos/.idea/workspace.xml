@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2tdspwProjetos.sln" afterDir="false" />
+    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_HelloWorld/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloWorld/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Leonardo062908"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Leonardo062908/ClassesDOTNET.git",
+    "accountId": "b2a0ce07-c892-43b3-a733-f5b105986b90"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -75,8 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739408170431</updated>
-      <workItem from="1739408172790" duration="1037000" />
+      <workItem from="1739408172790" duration="1990000" />
     </task>
+    <task id="LOCAL-00001" summary="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
+      <option name="closed" value="true" />
+      <created>1739409266501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739409266501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
+      <option name="closed" value="true" />
+      <created>1739409307041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739409307041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +115,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!" />
   </component>
 </project>
