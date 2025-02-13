@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_HelloWorld", "1_HelloWorld\1_HelloWorld.csproj", "{CBA7B775-65A3-469E-87AD-AA318DE278FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducaoOrientacaoOBJ", "IntroducaoOrientacaoOBJ\IntroducaoOrientacaoOBJ.csproj", "{3A3E8EE4-A137-4C60-98B9-C8BB998162D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CBA7B775-65A3-469E-87AD-AA318DE278FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA7B775-65A3-469E-87AD-AA318DE278FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA7B775-65A3-469E-87AD-AA318DE278FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3E8EE4-A137-4C60-98B9-C8BB998162D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3E8EE4-A137-4C60-98B9-C8BB998162D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3E8EE4-A137-4C60-98B9-C8BB998162D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3E8EE4-A137-4C60-98B9-C8BB998162D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
