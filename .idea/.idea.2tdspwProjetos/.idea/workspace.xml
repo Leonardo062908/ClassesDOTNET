@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
+    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="Testando cada linha de código e adicionando comentários explicativos para facilitar o aprendizado.">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_HelloWorld/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloWorld/Program.cs" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739408170431</updated>
-      <workItem from="1739408172790" duration="1990000" />
+      <workItem from="1739408172790" duration="3055000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
       <option name="closed" value="true" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739409307041</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Testando cada linha de código e adicionando comentários explicativos para facilitar o aprendizado.">
+      <option name="closed" value="true" />
+      <created>1739410225664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739410225664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!" />
+    <MESSAGE value="Testando cada linha de código e adicionando comentários explicativos para facilitar o aprendizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testando cada linha de código e adicionando comentários explicativos para facilitar o aprendizado." />
   </component>
 </project>
