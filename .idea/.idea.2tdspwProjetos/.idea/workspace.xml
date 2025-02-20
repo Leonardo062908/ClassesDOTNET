@@ -8,9 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="Aprimorando comentários e correções: explicações detalhadas, melhoria no if-else, switch-case e loops para facilitar o aprendizado!">
+    <list default="true" id="8f69b0a2-911e-41ac-a13f-6e9e2fc4fbfa" name="Changes" comment="Conhecendo sobre herança, orientação a objetos e muito mais em aula 19/02">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2tdspwProjetos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2tdspwProjetos.sln" beforeDir="false" afterPath="$PROJECT_DIR$/2tdspwProjetos.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,43 +22,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Leonardo062908"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leonardo062908&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Leonardo062908/ClassesDOTNET.git",
-    "accountId": "b2a0ce07-c892-43b3-a733-f5b105986b90"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leonardo062908/ClassesDOTNET.git&quot;,
+    &quot;accountId&quot;: &quot;b2a0ce07-c892-43b3-a733-f5b105986b90&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c73b3c6c598640c592fd3c6fa226c286e90908/57/c580ae7b/Object.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2sxrfOK2rbqeQOT6t0QASlrPWHO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.1_HelloWorld.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.1_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.1_HelloWorld">
     <configuration name="1_HelloWorld" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -106,7 +108,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739408170431</updated>
-      <workItem from="1739408172790" duration="4587000" />
+      <workItem from="1739408172790" duration="7243000" />
+      <workItem from="1740010968338" duration="2164000" />
+      <workItem from="1740013201328" duration="4000" />
+      <workItem from="1740013209559" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!">
       <option name="closed" value="true" />
@@ -148,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739411285283</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criando próximo projeto para a aula de Orientação a Obj com C#">
+      <option name="closed" value="true" />
+      <created>1739414809466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739414809466</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +174,8 @@
     <MESSAGE value="Iniciando desenvolvimento .NOT na FIAP com o professor Leonardo Gasparini!" />
     <MESSAGE value="Testando cada linha de código e adicionando comentários explicativos para facilitar o aprendizado." />
     <MESSAGE value="Aprimorando comentários e correções: explicações detalhadas, melhoria no if-else, switch-case e loops para facilitar o aprendizado!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aprimorando comentários e correções: explicações detalhadas, melhoria no if-else, switch-case e loops para facilitar o aprendizado!" />
+    <MESSAGE value="Criando próximo projeto para a aula de Orientação a Obj com C#" />
+    <MESSAGE value="Conhecendo sobre herança, orientação a objetos e muito mais em aula 19/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conhecendo sobre herança, orientação a objetos e muito mais em aula 19/02" />
   </component>
 </project>
